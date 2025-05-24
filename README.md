@@ -38,6 +38,8 @@ Soy un desarrollador Android apasionado por crear experiencias móviles modernas
 
 <p>
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></a>
 </p>
 
 ## 🚀 Frameworks & Tools
